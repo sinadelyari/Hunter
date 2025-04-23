@@ -1,0 +1,55 @@
+@import "tailwindcss" theme(static);
+
+@source "../views/";
+@source "../../app/";
+
+a{
+  text-decoration: none !important;
+}
+
+/* تغییر رنگ اکتیو به مشکی */
+.swiper-pagination-bullet-active {
+  background-color: black !important;
+}
+
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+header.w-full.scrolled {
+  background: white;
+}
+
+header.w-full.scrolled a.px-4.py-2.border.rounded-full.text-\[\#F0F3FD\] {
+  color: black;
+}
+
+header.w-full.scrolled a svg path  {
+    fill: black!important;
+}
+
+.swiper-button-disabled {
+  background: #E0E3EB;
+}
+.swiper-button-disabled svg path {
+  fill: black !important;
+}
+
+.tab-btn{
+  background: white;
+  color: #888B97;
+}
+
+.tab-btn.active-tab{
+  background: #D1FAE5;
+  color: #10B981;
+}
+
+.tab-btn.active-tab svg path{
+  fill: #10B981;
+}
+
+
