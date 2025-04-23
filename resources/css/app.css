@@ -23,8 +23,8 @@ header.w-full.scrolled {
   background: white;
 }
 
-header.w-full.scrolled a.px-4.py-2.border.rounded-full.text-\[\#F0F3FD\] {
-  color: black;
+header.w-full.scrolled a {
+  color: black !important;
 }
 
 header.w-full.scrolled a svg path  {
