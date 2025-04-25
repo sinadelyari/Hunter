@@ -5,10 +5,10 @@
       <div class="max-w-xl mx-auto lg:mx-0">
         <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight mb-6 text-center lg:text-left">
           Find The Place To <br />
-          Live <span class="text-[#f59e0b]">Your Dreams</span> <br />
+          Live <span class="text-accent">Your Dreams</span> <br />
           Easily Here
         </h1>
-        <p class="text-gray-500 text-sm mb-8 leading-relaxed text-center lg:text-left">
+        <p class="text-gray-500 text-sm mb-8 text-body leading-relaxed text-center lg:text-left">
           Everything you need about finding your place to live will be here,<br class="hidden md:block" />
           where it will be easier for you
         </p>
@@ -30,7 +30,7 @@
           />
 
           <!-- دکمه -->
-          <button class="bg-[#10b981] text-white px-6 py-3 text-sm font-medium rounded-full">
+          <button class="bg-primary text-white px-6 py-3 text-sm font-medium rounded-full">
             Search
           </button>
         </form>

@@ -2,11 +2,11 @@
   <div class="w-full mx-auto">
     <!-- عنوان و زیرعنوان -->
     <div class="text-center mb-12 px-4">
-      <p class="text-[#F59E0B] mb-2 text-sm inline-block">
+      <p class="text-accent mb-2 text-sm inline-block">
         <span class="block border-t border-[#F59E0B] w-1/2 mx-auto mb-1"></span>
         See Our Review
       </p>
-      <h2 class="text-3xl md:text-4xl font-bold mb-2">What Our User Say About Us</h2>
+      <h2 class="text-3xl md:text-4xl text-heading font-bold mb-2">What Our User Say About Us</h2>
     </div>
 
 
@@ -18,14 +18,14 @@
 
           <!-- کارت پایین تصویر با بیرون زدگی -->
           <div class="absolute left-1/2 top-2/5 md:top-1/2 -translate-x-1/2  bg-white p-4 md:p-6 rounded-2xl shadow-sm w-3/4 z-10  ">
-            <h4 class="text-xs md:text-base font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
-            <p class="truncate md:whitespace-normal md:overflow-visible md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
+            <h4 class="text-xs md:text-base text-heading font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
+            <p class="truncate md:whitespace-normal md:overflow-visible text-body md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
             <div class="flex items-center justify-between gap-4 md:mt-6">
               <div class="flex items-center gap-2">
                 <img src="{{ Vite::asset('resources/images/Ellipse 6 (1).png') }}" class="w-12 h-12 rounded-full object-cover" />
                 <div>
                   <p class="font-semibold">Dianne Russell</p>
-                  <p class="text-xs text-gray-500">Manager Director</p>
+                  <p class="text-xs text-body">Manager Director</p>
                 </div>
               </div>
               <div class="flex items-center">
@@ -42,14 +42,14 @@
 
           <!-- کارت پایین تصویر با بیرون زدگی -->
           <div class="absolute left-1/2 top-2/5 md:top-1/2 -translate-x-1/2  bg-white p-4 md:p-6 rounded-2xl shadow-sm w-3/4 z-10  ">
-            <h4 class="text-xs md:text-base font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
-            <p class="truncate md:whitespace-normal md:overflow-visible md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
+            <h4 class="text-xs md:text-base text-heading font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
+            <p class="truncate md:whitespace-normal md:overflow-visible text-body md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
             <div class="flex items-center justify-between gap-4 md:mt-6">
               <div class="flex items-center gap-2">
                 <img src="{{ Vite::asset('resources/images/Ellipse 6 (1).png') }}" class="w-12 h-12 rounded-full object-cover" />
                 <div>
                   <p class="font-semibold">Dianne Russell</p>
-                  <p class="text-xs text-gray-500">Manager Director</p>
+                  <p class="text-xs text-body">Manager Director</p>
                 </div>
               </div>
               <div class="flex items-center">
@@ -66,14 +66,14 @@
 
           <!-- کارت پایین تصویر با بیرون زدگی -->
           <div class="absolute left-1/2 top-2/5 md:top-1/2 -translate-x-1/2  bg-white p-4 md:p-6 rounded-2xl shadow-sm w-3/4 z-10  ">
-            <h4 class="text-xs md:text-base font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
-            <p class="truncate md:whitespace-normal md:overflow-visible md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
+            <h4 class="text-xs md:text-base text-heading font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
+            <p class="truncate md:whitespace-normal md:overflow-visible text-body md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
             <div class="flex items-center justify-between gap-4 md:mt-6">
               <div class="flex items-center gap-2">
                 <img src="{{ Vite::asset('resources/images/Ellipse 6 (1).png') }}" class="w-12 h-12 rounded-full object-cover" />
                 <div>
                   <p class="font-semibold">Dianne Russell</p>
-                  <p class="text-xs text-gray-500">Manager Director</p>
+                  <p class="text-xs text-body">Manager Director</p>
                 </div>
               </div>
               <div class="flex items-center">
@@ -90,14 +90,14 @@
 
           <!-- کارت پایین تصویر با بیرون زدگی -->
           <div class="absolute left-1/2 top-2/5 md:top-1/2 -translate-x-1/2  bg-white p-4 md:p-6 rounded-2xl shadow-sm w-3/4 z-10  ">
-            <h4 class="text-xs md:text-base font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
-            <p class="truncate md:whitespace-normal md:overflow-visible md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
+            <h4 class="text-xs md:text-base text-heading font-bold md:mb-2">Best! I got the house I wanted through Hounter</h4>
+            <p class="truncate md:whitespace-normal md:overflow-visible text-body md:text-clip" >Through this website I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.</p>
             <div class="flex items-center justify-between gap-4 md:mt-6">
               <div class="flex items-center gap-2">
                 <img src="{{ Vite::asset('resources/images/Ellipse 6 (1).png') }}" class="w-12 h-12 rounded-full object-cover" />
                 <div>
                   <p class="font-semibold">Dianne Russell</p>
-                  <p class="text-xs text-gray-500">Manager Director</p>
+                  <p class="text-xs text-body">Manager Director</p>
                 </div>
               </div>
               <div class="flex items-center">

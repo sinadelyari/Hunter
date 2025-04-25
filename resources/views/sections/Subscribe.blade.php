@@ -1,9 +1,9 @@
 <section class="md:py-24 px-6 sm:px-10">
-  <div class=" max-w-7xl mx-auto rounded-3xl bg-cover bg-center bg-no-repeat text-white px-8 py-16 text-center"
+  <div class=" max-w-7xl mx-auto rounded-3xl bg-cover bg-center bg-no-repeat text-white md:px-8 px-2 py-16 text-center"
        style="background-image: url('{{ Vite::asset('resources/images/Subscribe.png') }}');">
 
     {{-- تیتر و فرم --}}
-    <h2 class="md:text-3xl text-black sm:text-4xl font-semibold mb-12">
+    <h2 class="md:text-3xl text-heading sm:text-4xl font-semibold mb-12">
       Subscribe For More Info <br />
       and update from Hounter
     </h2>
@@ -16,7 +16,7 @@
       </div>
       <input type="email" name="email" placeholder="Your email here"
              class="md:flex-1 px-4 py-3 text-sm placeholder-gray-400 text-gray-500 outline-none" />
-      <button type="submit" class="px-4 py-2 md:px-8 md:py-3  bg-[#10b981]  text-white rounded-full ">
+      <button type="submit" class="px-4 py-2 md:px-8 md:py-3  bg-primary  text-white rounded-full ">
         Subscribe
       </button>
     </form>

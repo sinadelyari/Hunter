@@ -3,24 +3,23 @@
 
     <!-- عنوان -->
     <div class="text-center md:mb-12">
-      <p class="text-[#F59E0B] text-sm  inline-block">
-        <span class="block border-t border-[#F59E0B] w-1/4 mx-auto mb-1"></span>
+      <p class="text-accent text-sm  inline-block">
+        <span class="block border-t border-accent w-1/4 mx-auto mb-1"></span>
         See tips and trick from our partnership
       </p>
-      <h2 class="text-xl md:text-4xl font-bold leading-relaxed">
+      <h2 class="text-xl md:text-4xl font-bold text-heading leading-relaxed">
         Find out more about <br /> selling and buying homes
       </h2>
-      <button class=" bg-[#10b981] text-white my-4 px-6 py-2 mr-1 text-sm font-medium rounded-full">
+      <button class=" bg-primary text-white my-4 px-6 py-2 mr-1 text-sm font-medium rounded-full">
         <span>More article</span>
       </button>
     </div>
 
     <!-- محتوای اصلی -->
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 items-start">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-start">
 
       <!-- لیست مقالات -->
       <div class="flex flex-col gap-6 order-2 md:order-1">
-        <!-- مقاله ۱ -->
         <div class="flex flex-col md:flex-row  md:items-end gap-6">
           <img src="{{ Vite::asset('resources/images/Rectangle 22.png') }}" alt="Article thumbnail 1" class=" rounded-xl object-cover" />
           <div class="flex flex-col gap-2">

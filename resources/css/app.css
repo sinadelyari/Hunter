@@ -3,6 +3,14 @@
 @source "../views/";
 @source "../../app/";
 
+@theme {
+  --color-primary: #10B981;
+  --color-secondary: #D1FAE5;
+  --color-accent: #F59E0B;
+  --color-heading: #626687;
+  --color-body: #1B1C57;
+}
+
 a{
   text-decoration: none !important;
 }

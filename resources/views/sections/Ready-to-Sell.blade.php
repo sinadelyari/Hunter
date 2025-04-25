@@ -2,11 +2,11 @@
   <div class="container  mx-auto px-4 max-w-7xl ">
     <div class="flex flex-col md:flex-row items-center justify-between h-full">
       <div class="md:w-2/5 mb-8 md:mb-0 ">
-        <p class=" pl-2 md:pl-0 text-[#F59E0B] relative before:absolute before:right-full before:top-1/2 before:w-16 before:h-0.5 before:bg-[#F59E0B]  ">
+        <p class=" pl-2 md:pl-0 text-accent relative before:absolute before:right-full before:top-1/2 before:w-16 before:h-0.5 before:bg-[#F59E0B]  ">
           Ready to Sell!
         </p>
-        <h2 class="md:text-4xl font-bold mb-4">Let’s tour and see our house!</h2>
-        <p class="text-gray-500 text-start mb-4">Houses recommended by our partners that have been curated to become the home of your dreams!</p>
+        <h2 class="md:text-4xl font-bold text-heading mb-4">Let’s tour and see our house!</h2>
+        <p class="text-body text-start mb-4">Houses recommended by our partners that have been curated to become the home of your dreams!</p>
         <p>House Detail</p>
         <div class="flex my-6">
           <div class="w-full flex items-center">
@@ -58,12 +58,12 @@
             <div>
               <img src="{{ Vite::asset('resources/images/Ellipse 6 (25).png') }}" alt="Ellipse" class="" />
             </div>
-            <div class="mt-2 md:mt-0">
+            <div class="mt-2 md:mt-0 md:ml-3">
               <p>Dianne Russell</p>
               <p>Manager Director</p>
             </div>
           </div>
-          <button class="flex bg-[#10b981] text-white px-3 py-1 md:px-6 md:py-2 mr-1 text-sm font-medium rounded-full">
+          <button class="flex bg-primary text-white px-3 py-1 md:px-6 md:py-2 mr-1 text-sm font-medium rounded-full">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M8.38439 2.47912C8.90949 2.3208 9.47298 2.34711 9.98104 2.55365C10.4891 2.7602 10.9111 3.13453 11.1768 3.61432L11.2668 3.79312L12.06 5.55832C12.3011 6.09411 12.3793 6.68894 12.285 7.26885C12.1907 7.84876 11.928 8.38814 11.5296 8.81992L11.3712 8.97832L10.1184 10.1459C9.8928 10.3595 10.062 11.1863 10.8792 12.5999C11.6124 13.8719 12.2112 14.4659 12.504 14.4983H12.5556L12.6192 14.4863L15.0792 13.7339C15.4098 13.6325 15.7626 13.6285 16.0955 13.7224C16.4283 13.8162 16.727 14.004 16.956 14.2631L17.0664 14.4011L18.6936 16.6571C19.0129 17.0992 19.1721 17.6368 19.1451 18.1814C19.118 18.7261 18.9063 19.2453 18.5448 19.6535L18.3984 19.8047L17.7468 20.4215C17.1627 20.9746 16.4322 21.3484 15.6419 21.4984C14.8516 21.6483 14.0349 21.5682 13.2888 21.2675C10.9668 20.3315 8.85719 18.1931 6.94079 14.8739C5.02079 11.5463 4.2228 8.64592 4.5792 6.16192C4.68715 5.41091 4.99653 4.70316 5.47446 4.11388C5.9524 3.52459 6.58104 3.07578 7.2936 2.81512L7.52519 2.73832L8.38439 2.47912Z" fill="white"/>
             </svg>

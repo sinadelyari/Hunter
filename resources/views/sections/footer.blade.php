@@ -7,9 +7,9 @@
           <path d="M0 4C0 1.79086 1.79086 0 4 0H28C30.2091 0 32 1.79086 32 4V8C32 21.2548 21.2548 32 8 32H4C1.79086 32 0 30.2091 0 28V4Z" fill="#F59E0B"/>
           <path d="M4 8C4 5.79086 5.79086 4 8 4H32C34.2091 4 36 5.79086 36 8V12C36 25.2548 25.2548 36 12 36H8C5.79086 36 4 34.2091 4 32V8Z" fill="#4BE4C9"/>
         </svg>
-        <span class="text-xl font-bold text-[#1b1c57]">Hounter</span>
+        <span class="text-xl font-bold text-heading">Hounter</span>
       </div>
-      <p class="text-gray-600 text-sm leading-relaxed max-w-sm mt-6">
+      <p class="text-body text-sm leading-relaxed max-w-sm mt-6">
         We provide information about properties such as houses, villas and apartments to help people find their dream home.
       </p>
       <div class="flex gap-6 mt-8">
