@@ -10,9 +10,8 @@
       <h2 class="text-xl md:text-4xl font-bold text-heading leading-relaxed">
         Find out more about <br /> selling and buying homes
       </h2>
-      <button class=" bg-primary text-white my-4 px-6 py-2 mr-1 text-sm font-medium rounded-full">
-        <span>More article</span>
-      </button>
+      <x-button title="more articles" url="#" classes="inline-block"  />
+
     </div>
 
     <!-- محتوای اصلی -->
