@@ -72,8 +72,15 @@
         </div>
 
         <h3 class="font-bold text-xl my-3">12 Things to know before buying a house</h3>
+
+
+        @php
+          $content = 'Want to buy a house but unsure what we should know, here I will try to explain what we should know and check when we want to buy a house. Want to buy a house but unsure what we should know, here I will try to explain what we should know and check when we want to buy a house.';
+          $excerpt = app('excerpt')($content, 30); // حداکثر ۳۰ کلمه
+        @endphp
+
         <p class="text-gray-700 text-sm mb-4">
-          Want to buy a house but unsure what we should know, here I will try to explain what we should know and check when we want to buy a house.
+          {{ $excerpt }}
         </p>
         <div class="flex items-center gap-2 text-sm text-gray-500">
           @include('partials.icons.clock-icon')
