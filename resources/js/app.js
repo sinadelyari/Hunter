@@ -47,7 +47,6 @@ jQuery(function($) {
 
 
 
-
 new Swiper('.fw-swiper', {
 
   slidesPerView: 1, // پیش‌فرض برای موبایل

@@ -1,9 +1,14 @@
+@import './fonts.css';
+
 @import "tailwindcss" theme(static);
 
 @source "../views/";
 @source "../../app/";
 
+
+
 @theme {
+  --font-sans: "Public Sans", sans-serif;
   --color-primary: #10B981;
   --color-secondary: #D1FAE5;
   --color-accent: #F59E0B;

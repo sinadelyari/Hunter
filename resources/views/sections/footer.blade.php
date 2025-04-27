@@ -48,7 +48,7 @@
 
     <!-- Contact -->
     <div>
-      <h4 class="font-semibold mb-4 text-gray-800">Contact</h4>
+      <h4 class="font-semibold mb-4  text-gray-800">Contact</h4>
       <ul class="space-y-2 text-sm text-gray-600">
         <li><a href="#">2464 Royal Ln. Mesa, New Jersey 45463</a></li>
         <li><a href="#">(671) 555-0110</a></li>

@@ -4,13 +4,10 @@
     <div class="w-full flex flex-col justify-center ml-0 md:ml-12  lg:px-6">
       <div class="max-w-xl mx-auto lg:mx-0">
         <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight mb-6 text-center lg:text-left">
-          Find The Place To <br />
-          Live <span class="text-accent">Your Dreams</span> <br />
-          Easily Here
+          {!!  $hero_title !!}
         </h1>
         <p class="text-gray-500 text-sm mb-8 text-body leading-relaxed text-center lg:text-left">
-          Everything you need about finding your place to live will be here,<br class="hidden md:block" />
-          where it will be easier for you
+          {!!  $hero_subtitle !!}
         </p>
 
         <!-- فرم سرچ -->
@@ -88,6 +85,8 @@
     </div>
   </div>
 </section>
+
+
 
 
 
